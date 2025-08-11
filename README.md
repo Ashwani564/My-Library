@@ -1,4 +1,4 @@
-# Die Bibliothek 📚
+# My Library 📚
 
 A beautiful, feature-rich Flutter EPUB reader app with Kindle-like functionality and OLED optimization.
 
@@ -39,8 +39,8 @@ A beautiful, feature-rich Flutter EPUB reader app with Kindle-like functionality
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/[your-username]/Die-Bibliothek.git
-   cd Die-Bibliothek
+   git clone https://github.com/Ashwani564/My-Library.git
+   cd My-Library
    ```
 
 2. **Install dependencies**
@@ -148,4 +148,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Die Bibliothek** - *Your personal digital library* 📚✨
+**My Library** - *Your personal digital library* 📚✨
